@@ -1,0 +1,39 @@
+﻿---
+ID: "9995b05b-f6f5-4aa4-ab2b-07825be11e60"
+Parent: "6dad7d5f-c8ce-4b72-b465-e3373e0d0fbc"
+Template: "2679019c-9b61-4f52-84b3-d2343ab44485"
+Path: /sitecore/content/NTV/B2B/biglietti/Presentation/Page Designs
+BranchID: "45cf9f42-b3ac-4412-aab9-f8441c7e448e"
+SharedFields:
+- ID: "ba1f60d6-3deb-40cc-bb61-eec772279ee1"
+  Hint: TemplatesMapping
+  Value: "%7b390B25B1-834F-4210-9465-7640E9244CB7%7d%3d%257BF9241C69-682A-4D69-A2D3-2E4B832CA2F8%257D"
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{2EA756FA-AED6-4599-83B7-36FEFE229B31}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240328T142918Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\c.paolillo@avanade.com
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\c.paolillo@avanade.com
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "dfaa3c08-50e5-4e64-af66-d4c2ee05cd03"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\c.paolillo@avanade.com
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240328T143000Z

@@ -1,0 +1,68 @@
+﻿---
+ID: "26d8da7e-a399-404e-996a-5920fb8e645f"
+Parent: "5e2f61d0-1b29-44b5-970e-a37a2c71a9cf"
+Template: "390b25b1-834f-4210-9465-7640e9244cb7"
+Path: /sitecore/content/NTV/B2B/biglietti/Home/About
+BranchID: "aa757cc9-f2da-4f78-a33d-9d382d5fcf92"
+SharedFields:
+- ID: "c7c26117-dbb1-42b2-ab5e-f7223845cca3"
+  Hint: __Thumbnail
+  Value: |
+    <image mediaid="{EA04671B-EE9E-4F40-8C2F-3B0A6BE61535}" />
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+  Hint: __Renderings
+  Value: |
+    <r xmlns:p="p" xmlns:s="s"
+      p:p="1">
+      <d
+        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+        <r
+          uid="{A612DB14-6DCA-44B7-ACE2-FC62B4A0B54E}"
+          p:before="*"
+          s:id="{7A1D9A21-B8D7-42F9-9B0B-92ABF8D1974F}"
+          s:par="?Styles=%7b0BA88984-732F-479D-8716-185482DC1EC5%7d%7c%7b711279ED-45F8-4C54-BF70-37F2A64D0C8F%7d%7c%7bE1148031-5CF7-4047-B390-5EC9CE022B5C%7d%7c%7b12FBCC76-931F-4B38-B852-7126086BC251%7d%7c%7bCADDEFE0-D6F7-479A-BCBA-EC4BA47E79BB%7d%7c%7bA9219ED0-2C9C-4F8F-B1A9-D024F1AD360F%7d%7c%7bC8607432-1E85-4D0F-8EAF-F6D1475A4E88%7d%7c%7b6B26CEDA-4481-456C-B9CD-C827D3D263AF%7d%7c%7bF47B2E54-D5F1-407C-8B7D-EA435464DC2C%7d%7c%7b89ABBC23-84E0-4CED-B309-0ACC1FBC6E39%7d%7c%7bE7E1ED67-1265-4F55-870E-ABEB55E653B6%7d%7c%7b762ACE19-0EDA-4015-808E-EC1502362C50%7d%7c%7b47E1888A-37DC-4935-82C4-8F73A02F10F6%7d&amp;GridParameters=%7b7465D855-992E-4DC2-9855-A03250DFA74B%7d&amp;DynamicPlaceholderId=1"
+          s:ph="headless-main" />
+        <r
+          uid="{69D95E28-3497-4323-95D7-F6B470E65A04}"
+          p:after="*[1=2]"
+          s:ds="local:/Data/Text 1"
+          s:id="{9C6D53E3-FE57-4638-AF7B-6D68304C7A94}"
+          s:par="?GridParameters=%7b7465D855-992E-4DC2-9855-A03250DFA74B%7d%7c%7b959FDFBB-4691-4A17-816F-7A5330B8216A%7d%7c%7b175CB6DA-CF89-4D56-888C-EB79F514D12F%7d%7c%7b7DF615F7-0A53-42E1-A164-2B36D6126314%7d&amp;FieldNames=%7b770D38E6-8BC8-4898-B728-1A42BAE10713%7d"
+          s:ph="/headless-main/container-1" />
+      </d>
+    </r>
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{B8E694EC-3576-4CC6-8628-AEE286A9AB38}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240328T142950Z
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: About
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\c.paolillo@avanade.com
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\c.paolillo@avanade.com
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "42765a1b-a73c-4155-ac7d-f8b5f0d0d20a"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\c.paolillo@avanade.com
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240328T143004Z
+    - ID: "e5278800-c514-473d-9d27-9dc3fa21630b"
+      Hint: Title
+      Value: About
